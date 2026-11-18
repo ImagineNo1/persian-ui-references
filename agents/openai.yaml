@@ -1,0 +1,4 @@
+interface:
+  display_name: "Persian UI References"
+  short_description: "Design Persian RTL websites from curated references"
+  default_prompt: "Use $persian-ui-references to find relevant references from the five preferred sources and design a coherent Persian RTL interface for my project."
